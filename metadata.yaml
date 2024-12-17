@@ -1,0 +1,34 @@
+_repo: Matkamuistelmia-Egyptista-Siinailta-ja-Palestiinasta-1859-1860_74811
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hauvonen, Nikodemus
+    alias: Hauvonen, N.
+    birthdate: 1845
+    deathdate: 1897
+    gutenberg_agent_id: '45175'
+    url: http://www.gutenberg.org/2009/agents/45175
+    wikipedia: https://fi.wikipedia.org/wiki/Nikodemus_Hauvonen
+creator:
+  author:
+    agent_name: Beskow, Gustaf af
+    gutenberg_agent_id: '57661'
+    url: http://www.gutenberg.org/2009/agents/57661
+description: ''
+gutenberg_issued: '2024-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74811'
+language: fi
+pgterms:marc905: 20241116120931beskow
+pgterms:marc906: '1877'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aWiipuri :$bSuom. Kirjallisuusseura, $c1877.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Matkamuistelmia Egyptistä, Siinailta ja Palestiinasta 1859-1860
+url: http://www.gutenberg.org/ebooks/74811
