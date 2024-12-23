@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '45175'
     url: http://www.gutenberg.org/2009/agents/45175
     wikipedia: https://fi.wikipedia.org/wiki/Nikodemus_Hauvonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beskow, Gustaf af
     gutenberg_agent_id: '57661'
     url: http://www.gutenberg.org/2009/agents/57661
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74811#Matkamuistelmia-Egyptista-Siinailta-ja-Palestiinasta-1859-1860
 gutenberg_issued: '2024-11-28'
 gutenberg_type: Text
 identifiers:
